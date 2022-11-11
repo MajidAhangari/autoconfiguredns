@@ -25,3 +25,4 @@ This tool configures the Bind9 service to make it work as a Master server, and a
 If my Internet IP is '*10.10.10.51*' and my FQDN is '*test.com*', I would run:
 
 `./autoconfiguredns 10.10.10.51 test.com`
+chmod 777 ./autoconfiguredns.sh
